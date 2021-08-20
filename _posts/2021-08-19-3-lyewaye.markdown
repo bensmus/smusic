@@ -5,3 +5,34 @@ date: 2021-08-19 04:19:07 -0700
 ---
 
 <iframe src="https://open.spotify.com/embed/track/38qAaZpFyxhPoLnsr6d7bX" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+I found this song on Jaffer Zadique's MINIMAL TECHNO playlist, which you can find here: <https://open.spotify.com/playlist/2ykuxry1HpxMtEDhBwnyaj?si=12dd5c00e81147dd>
+
+The first minute of the song creates an atmosphere of intense tension, which is slightly resolved when the groove is thickened in the subsequent minute and a melody is introduced. Finally, at two minutes, we get a sinister declaration which creates some nice contrast. After this, the song really kicks off with two wonderful melodic elements introduced at around three minutes. The mental image I get from this song is the rhythm being some sort of menacing army of variously shaped grey spaceships, and the melodic elements being like rays of starlight reflecting off the spaceship's glass. Think like J. J. Abrams lens flare. Techno music often evokes futuristic atmospheres, and this song really does that for me.
+
+<details>
+<summary><em>What are melodic elements?</em></summary>
+	<p>
+	Each instrument lies on a scale of melodicness, which is how much the instrument lends itself to writing melodies. An example: A flute is very melodic, wheras a snare drum (marching band drum) is not melodic. Imagine writing a melody with a snare drum! Some of the electronic sounds in this song are quite melodic, but they are quite sparse, and only introduced around the third minute. Sparse use of melodic elements is a characteristic of Techno-style music. 
+	</p>
+	<div style="margin-left: 2em;">
+	<details>
+		<summary><em>I want to learn more about melodicness.</em></summary>
+		<p>
+			First of all, you'll need to make sure that you understand that sounds are composed of frequencies. Visit <a>https://www.scienceworld.ca/resource/sound/</a> to learn more. A technical explanation of what melodic elements are would be "sounds where most of the frequencies are related by the harmonic series". In a simpler sense, the sound is composed of frequencies that are laid out in a way that is suitable for writing melodies. Much nerdier information is availabe at <a>https://en.wikipedia.org/wiki/Harmonic_series_(music)</a>.
+		</p>
+		</details>
+	</div>
+	
+</details>
+<br>
+
+<p>
+I did my best at figuring out what the main rhythm was in the song, and this is what I came up with: 
+</p>
+
+![piano roll rhythm for lyéwaye](/assets/lyewaye_rhythm.png)
+
+<p>
+To listen to this in your web browser, visit <a>https://onlinesequencer.net/2224081</a>.
+</p>

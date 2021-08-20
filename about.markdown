@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Smusic is a music blog! It is a way of sharing overly detailed thoughts about music. Each post will have some songs and something (hopefully) interesting about them.
+Smusic is a music blog! It is a way of sharing overly detailed thoughts about music. Each post will have a song and something (hopefully) interesting about it. Each song on this blog is a song that I like. 
 
 Some topics we'll discuss incude:
 
