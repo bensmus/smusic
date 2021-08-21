@@ -10,7 +10,7 @@ I found this song on Jaffer Zadique's [MINIMAL TECHNO](https://open.spotify.com/
 
 ### Song remarks
 
-The buildup is great. The spoken word at the two minute mark helps to create a sinister atmosphere and also prepares us for the main groove. The number of melodic instruments are kept super minimal. The mental image I get from this song is the rhythm being a steadily approaching spaceship formation, and the melodic instruments being like rays of starlight or the planet's glow. I wish more science fiction movies had techno soundtracks, at least for the action scenes. Last thing: the drums are amazingly produced. They manage to have so much variety while still sounding coherent 😮.
+The buildup is great. The spoken word at the two minute mark helps to create a sinister atmosphere and also prepares us for the main groove. The number of melodic instruments are kept super minimal. The mental image I get from this song is the rhythm being a quickly approaching spaceship, or multiple spaceships, and the melodic instruments being like rays of starlight or the planet's glow. I wish more science fiction movies had techno soundtracks, at least for the action scenes. Last thing: the drums are amazing. They are always evolving somewhere, and have a unique tense industrial character.
 
 ![Spaceships](/assets/lyewaye/spaceships.jpg)
 
@@ -22,15 +22,15 @@ You may be wondering: "what do I mean by melodic instruments"?
 
 Each instrument has a certain degree of melodicness, which is how much the instrument lends itself to writing melodies. An example: A flute is very melodic, wheras a snare drum (marching band drum) is not very melodic.
 
-The techical reason for why some instruments are melodic and others aren't is that more of the frequencies contained in their sound are harmonic. If you want to actually understand what I just said, watch this amazing [Video by Andrew Huang]("https://www.youtube.com/watch?v=Wx_kugSemfY").
+The techical reason for why some instruments are melodic and others aren't is that more of the frequencies contained in their sound are harmonic. If you want to actually understand what I just said, watch this amazing [video by Andrew Huang]("https://www.youtube.com/watch?v=Wx_kugSemfY").
 
 ### Rhythm
 
-I did my best at figuring out what the rhythm was in the song at 5:30, and this is what I came up with:
+I did my best at figuring out what the rhythm was in the song at the 5:30 mark, and this is what I came up with:
 
 ![Piano roll rhythm](/assets/lyewaye/rhythm.jpg)
 
-*See how it sounds at <https://onlinesequencer.net/2224936>. This goes to show that even with a cool rhythm, if you don't design your sound and just use random samples, your drum line will sound like shit.*
+_See how it sounds at <https://onlinesequencer.net/2224936>. This goes to show that even with a cool rhythm, if you don't design your sound and just use random samples, your drum line will sound like shit._
 
 - The song has a tempo of 120 BPM, and is in 4/4 time.
 - Half of the claps in the song are aligned to the 12th 16th note, which is unusual (crazy clap). This almost makes the beat sound off beat.
@@ -39,4 +39,10 @@ I did my best at figuring out what the rhythm was in the song at 5:30, and this 
 Basically, the beat sounds wired because it has lound sounds where we would expect quiet sounds.
 
 ### Sound design
-...in progress
+
+At the 3:45 mark, we hear a new melodic instrument, that appears to be at least 6 or 7 notes played as a chord. It lasts for about 10 seconds, and varies in intensity, almost with a swelling effect. This helps with the starlight analogy, where the movement of the ship gradually creates different reflections. I managed to make a similar sound using the free [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) reverb/delay/chorus plugin and the [Serum software wavetable synthesizer](https://xferrecords.com/products/serum). As a side note, I absolutely love what Valhalla DSP (Valhalla DSP is a company that does Digital Signal Processing) had to say about their plugin:
+
+---
+![Valhalla Supermassive](/assets/lyewaye/valhalla.png)
+
+---
